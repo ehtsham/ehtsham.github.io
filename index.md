@@ -1,4 +1,4 @@
-###Personal Info
+### Personal Info
 [Resume](https://drive.google.com/file/d/0B7i2iJCV3z-8bEdWUVVnMkgxVGs/view?usp=sharing)
 
 ###Technical Presentations
