@@ -26,5 +26,5 @@ I lead a reading group on Advanced Probabilistic Modeling internally in Netflix.
 
 ## Select Publications
 * Learning Representations of Hierarchical Slates in Collaborative Filtering, RecSys 2020
-* Variational Low Rank Multinomial Models for collaborative filtering with side-information, RecSys 2019
+* Variational Low Rank Multinomial Models for Collaborative Filtering with Side-information, RecSys 2019
 * A Nonparametric Latent Factor Model For Location-Aware Video Recommendations, NIPS Workshop on Practical Bayesian Nonparametrics, 2016
