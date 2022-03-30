@@ -1,5 +1,5 @@
 ## Personal Info
-[Resume](https://drive.google.com/file/d/0B7i2iJCV3z-8bEdWUVVnMkgxVGs/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1G5kLPGT0wkK_Tkz80FlngzVYQUHX2NXk/view?usp=sharing)
 
 ## Technical Presentations
 A Distributed Gibbs Sampler for LDA using Spark and GraphX at [MLCONF 2015, Seattle](http://mlconf.com/mlconf-2015-sea/)
